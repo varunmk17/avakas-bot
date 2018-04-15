@@ -1,0 +1,5 @@
+applications:
+- name: AvakasBot
+  random-route: true
+  memory: 256M
+  host: sumathi

@@ -1,0 +1,18 @@
+{
+  "name": "avakas-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.1",
+    "dotenv": "^5.0.1",
+    "restify": "^7.1.1",
+    "watson-developer-cloud": "^3.3.0"
+  }
+}
